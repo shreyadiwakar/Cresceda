@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# C++ Executables & Binaries
+*.exe
+*.o
+*.obj
+*.out
+console.exe
+
+# Build Output
+dist/
+build/
+
+# Application Data & User Submissions
+data/
+*.txt
+!README.md
+
+# Environment & Logs
+*.log
+.env
+.env.local
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
