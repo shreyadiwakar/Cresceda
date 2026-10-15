@@ -76,8 +76,7 @@ Make sure you have the following installed:
    npm install
    ```
 
-3. **Then start the bridge server in one terminal**:
-
+3. **Then start the bridge server in one terminal**
   ```bash
   node server.js
   ```
