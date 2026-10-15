@@ -76,9 +76,15 @@ Make sure you have the following installed:
    npm install
    ```
 
-3. **Run the Application**:
+3. **Then start the bridge server in one terminal**:
+
+  ```bash
+  node server.js
+  ```
+
+4. **Then start the Vite app in a second terminal:**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
